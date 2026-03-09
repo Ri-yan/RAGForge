@@ -1,4 +1,4 @@
-# RAG Pipeline API
+# RAGForge Pipeline API
 
 A generic, production-grade Retrieval-Augmented Generation pipeline exposed via a REST API. Built with **SOLID principles** and fully open-source components.
 
